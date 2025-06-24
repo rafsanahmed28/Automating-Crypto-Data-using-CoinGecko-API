@@ -1,4 +1,4 @@
-## Automating Cryto Data Collection Process
+## Automating Cryptocurrency Data Collection Process
 
 ![crypto](https://github.com/user-attachments/assets/0d7cfbc5-41b9-41aa-bd53-1ef73a03094a)
 
